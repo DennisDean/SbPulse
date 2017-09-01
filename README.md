@@ -4,9 +4,14 @@ Modified Santen-Bartin Pulse Detection Algorithm for Lutenizing Hormone
 ## Overview
 A MATLAB implemention of the Modified Santen-Bartin pulse detection extended to account for missing data.  The implementation build on the methods described in the three references listed below.
 
-First created: August 14, 2002
-Last change: February 14, 2008
-Programmer: Dennis A. Dean, II, PhD
+### First created
+August 14, 2002
+
+### Last change
+February 14, 2008
+
+### Programmer
+Dennis A. Dean, II, PhD
 
 ### References
 
@@ -23,6 +28,14 @@ The interface was built with a 2008 MATLAB version.
 ## Implementation Details
 
 ### File list
+
+santen_bardin_mod_12: implemented algorithm
+
+sb_pulse.fig: Matlab GUI interface
+
+sb_pulse.m: Matlab GUI source code
+
+tilefigs.m: Source code for manipulating source code adapted publically available source code
 
 
 
