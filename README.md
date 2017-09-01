@@ -17,13 +17,13 @@ Dennis A. Dean, II, PhD
 
 Bardin et. al., Episodic Luteinizing Hormone Secretion in Man: Pulse Analysis, Clinical Interpretation, Physiologic Mechanisms, 1973
 
-Whitcomb et. al, Utility of Free -subunit as an Alternative Neuroendocrine Marker of Gonadotropin-Releasing Hormone (GnRH) Simulation of the Gonadadotroph in the Human: Evidence from Normal and GnRH-D, 1990
+Whitcomb et. al, Utility of Free alpha-subunit as an Alternative Neuroendocrine Marker of Gonadotropin-Releasing Hormone (GnRH) Simulation of the Gonadadotroph in the Human: Evidence from Normal and GnRH-D, 1990
 
 Adams et. al., The Midcycle Gonadotropin Surge in Normal Women Occurs in the Face of an Unchanging Gonadotrpin-Releasing Hormone Pulse Frequency, 1994
 
 ### Note
 
-The interface was built with a 2008 MATLAB version.
+The interface was built with a 2008 MATLAB version. This read me is adapted from note in the source code
 
 ## Implementation Details
 
